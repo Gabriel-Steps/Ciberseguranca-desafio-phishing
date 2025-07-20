@@ -14,3 +14,6 @@
 - Método de Ataque: `Web Templates`
 - Escolha de template gmail: `Google`
 - Obtendo o endereço da máquina: `ifconfig`
+
+## Resultado
+![Resultado](assets/resultado.png)
